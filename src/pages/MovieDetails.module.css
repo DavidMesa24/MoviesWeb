@@ -1,0 +1,31 @@
+.detailsContainer
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.col
+{
+    max-width: 450px;
+    margin: 20px;
+    height:auto;
+    height:80%;
+}
+
+.imageStyle
+{
+    border-radius: 15px;
+
+}
+
+.textDetails
+{
+    font-size: 1.5rem;
+
+}
+
+.firstParr
+{
+    margin-top:0;
+}
